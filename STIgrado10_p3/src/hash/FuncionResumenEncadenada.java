@@ -1,7 +1,7 @@
-package grado.sti.hash;
+package hash;
 
-import grado.sti.auxiliar.Datos;
-import grado.sti.cifrador.CifradorDES;
+import cifrador.CifradorDES;
+import auxiliar.Datos;
 
 /**
  * Función resumen que opera sobre sobre el mensaje aplicando una funci�n de compresi�n a lo largo de diferentes etapas.

@@ -1,4 +1,4 @@
-package grado.sti.hash;
+package hash;
 
 /**
  * Interfaz que define el API de una Función Resumen.

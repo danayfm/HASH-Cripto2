@@ -1,9 +1,9 @@
-package grado.sti.hash.test;
+package test;
 
-import grado.sti.auxiliar.Clase;
-import grado.sti.auxiliar.Datos;
-import grado.sti.auxiliar.Fichero;
-import grado.sti.hash.FuncionResumenI;
+import auxiliar.Clase;
+import auxiliar.Datos;
+import auxiliar.Fichero;
+import hash.FuncionResumenI;
 
 /**
  * Clase para probar una función resumen.

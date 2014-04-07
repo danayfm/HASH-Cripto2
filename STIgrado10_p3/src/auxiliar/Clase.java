@@ -1,6 +1,6 @@
-package grado.sti.auxiliar;
+package auxiliar;
 
-import grado.sti.hash.FuncionResumenI;
+import hash.FuncionResumenI;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

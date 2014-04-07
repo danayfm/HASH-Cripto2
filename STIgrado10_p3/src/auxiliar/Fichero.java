@@ -1,4 +1,4 @@
-package grado.sti.auxiliar;
+package auxiliar;
 
 import java.io.ByteArrayOutputStream;
 import java.io.FileOutputStream;

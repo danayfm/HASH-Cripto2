@@ -1,4 +1,4 @@
-package grado.sti.cifrador;
+package cifrador;
 
 import java.security.NoSuchAlgorithmException;
 

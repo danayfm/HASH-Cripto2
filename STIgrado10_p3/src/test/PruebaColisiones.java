@@ -1,11 +1,11 @@
-package grado.sti.hash.test;
+package test;
 
 import java.util.HashMap;
 
-import grado.sti.auxiliar.Clase;
-import grado.sti.auxiliar.Datos;
-import grado.sti.auxiliar.Fichero;
-import grado.sti.hash.FuncionResumenI;
+import auxiliar.Clase;
+import auxiliar.Datos;
+import auxiliar.Fichero;
+import hash.FuncionResumenI;
 
 /**
  * Clase que realiza el c�lculo de las colisiones para una funci�n resumen dada y bas�ndose en un fichero de entrada.

@@ -1,6 +1,6 @@
-package grado.sti.hash;
+package hash;
 
-import grado.sti.auxiliar.Datos;
+import auxiliar.Datos;
 
 /**
  * Funci�n Resumen que opera sobre el mensaje aplicando un XOR a nivel binario (bit) en cada bloque, de la siguiente manera:

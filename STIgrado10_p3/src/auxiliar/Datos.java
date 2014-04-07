@@ -1,4 +1,4 @@
-package grado.sti.auxiliar;
+package auxiliar;
 
 import java.util.ArrayList;
 import java.util.Arrays;
